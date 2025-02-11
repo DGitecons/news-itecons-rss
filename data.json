@@ -1,6 +1,11 @@
 [
     {
-        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMTIvMTgvMWUxbm9veDJidl9lbmdfY2l2aWwuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=d793c4027f761e21",
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMTEvN3Z5czB3cThla19lbmdfY2l2aWxfZmlzY2FsaXphY2FvLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=68d27d3335bb448c",
+        "titulo": "ABERTURA DE VAGA | ENG. CIVIL",
+        "descricao": ""
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMTEvMmRkMmYzYWpndV9lbmdfY2l2aWxfY29weS5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=99c45abde50fa1c7",
         "titulo": "ABERTURA DE VAGA | ENG. CIVIL",
         "descricao": ""
     },
@@ -33,10 +38,5 @@
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjMvMDIvMjMvMTl0cDN6aGUweV9FeHBvc2ljX2EwMjAyM19TaXRlX0l0ZWNvbnMucG5nIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=f37a585d82eebbe2",
         "titulo": "Exposição",
         "descricao": "Materiais Inovadores Sustentáveis"
-    },
-    {
-        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjIvMDgvMTEvMWZmNjE4OXd6aF9DVElfc2l0ZV9ub3RpY2lhcy5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=7cb9034363197dec",
-        "titulo": "CTI Recognition",
-        "descricao": "Technology and Innovation Centre"
     }
 ]
