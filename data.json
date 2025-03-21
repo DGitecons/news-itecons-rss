@@ -1,5 +1,10 @@
 [
     {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDMvMjEvb2s2bDNnbzhoX2V1cm9wZV9yYWlsXzEuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=83b90974f45591d1",
+        "titulo": "Europe’s Rail Joint Undertaking (EU-Rail)",
+        "descricao": "O Itecons torna-se associado em consórcio com o..."
+    },
+    {
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMjYvOHJnMjQ4ZDR5Nl9lbmdfY2l2aWxfY29weV8yLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=c62b118cf7ea3aaf",
         "titulo": "ABERTURA DE VAGA | ENG. CIVIL",
         "descricao": ""
@@ -18,10 +23,5 @@
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMTAvMTEvOGZzejFhenZra19hZ3VhLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=497438a9d33afdae",
         "titulo": "CIRCULamETA",
         "descricao": "Valorização de lamas de ETA em soluções sustent..."
-    },
-    {
-        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMDYvMTQvMXJrMG1zbmhmNl9mb3RvLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=bcc703ea53c2c8c5",
-        "titulo": "Smart Roofs System",
-        "descricao": "Prémio de Inovação da Techtextil"
     }
 ]
