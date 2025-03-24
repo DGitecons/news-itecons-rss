@@ -1,8 +1,13 @@
 [
     {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDMvMjQvOThlZjhtczJ4bF9jYXBhLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=549c41903bb90cfe",
+        "titulo": "Laboratório de Calibração",
+        "descricao": "Nova Acreditação"
+    },
+    {
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDMvMjEvOGIwMGswMnA2aV9ldXJvcGVfcmFpbF8xLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=c1d62f896421a81e",
         "titulo": "Europe’s Rail Joint Undertaking (EU-Rail)",
-        "descricao": "Associado em consórcio com outras empresas port..."
+        "descricao": "Associated in consortium with other Portuguese ..."
     },
     {
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMjYvOHJnMjQ4ZDR5Nl9lbmdfY2l2aWxfY29weV8yLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=c62b118cf7ea3aaf",
@@ -18,10 +23,5 @@
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMTEvMmRkMmYzYWpndV9lbmdfY2l2aWxfY29weS5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=99c45abde50fa1c7",
         "titulo": "ABERTURA DE VAGA | ENG. CIVIL",
         "descricao": ""
-    },
-    {
-        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMTAvMTEvOGZzejFhenZra19hZ3VhLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=497438a9d33afdae",
-        "titulo": "CIRCULamETA",
-        "descricao": "Valorização de lamas de ETA em soluções sustent..."
     }
 ]
