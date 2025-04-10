@@ -5,11 +5,6 @@
         "descricao": "Nova Acreditação"
     },
     {
-        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMjYvOHJnMjQ4ZDR5Nl9lbmdfY2l2aWxfY29weV8yLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=c62b118cf7ea3aaf",
-        "titulo": "ABERTURA DE VAGA | ENG. CIVIL",
-        "descricao": ""
-    },
-    {
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDIvMTEvN3Z5czB3cThla19lbmdfY2l2aWxfZmlzY2FsaXphY2FvLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=68d27d3335bb448c",
         "titulo": "ABERTURA DE VAGA | ENG. CIVIL",
         "descricao": ""
@@ -23,5 +18,10 @@
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMTAvMTEvOGZzejFhenZra19hZ3VhLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=497438a9d33afdae",
         "titulo": "CIRCULamETA",
         "descricao": "Valorização de lamas de ETA em soluções sustent..."
+    },
+    {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjQvMDYvMTQvMXJrMG1zbmhmNl9mb3RvLmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=bcc703ea53c2c8c5",
+        "titulo": "Smart Roofs System",
+        "descricao": "Prémio de Inovação da Techtextil"
     }
 ]
