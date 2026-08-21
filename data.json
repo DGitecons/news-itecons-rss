@@ -1,8 +1,13 @@
 [
     {
+        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDgvMjEvOXBsMDhieHI4a19TTUFUX1JFQ1JVVEFNRU5UTy5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=088985fdd63523c3",
+        "titulo": "ABERTURA DE VAGA | Eng. Mecânico, Civil ou similar",
+        "descricao": ""
+    },
+    {
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDYvMTgvNjJjaG5qZng0YV9Cb2xzYS5qcGciXSxbInAiLCJ0aHVtYiIsIjY0MHg2NDAjIl1d?sha=ac89f17582416ed9",
-        "titulo": "Research Grant Position SUS-TA-IN",
-        "descricao": "Opening"
+        "titulo": "Bolsa de Investigação SUS-TA-IN",
+        "descricao": "Abertura de Vaga"
     },
     {
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDIvMjMvMzd2dmUzMGw1N18yMDI1MDkzMF92YWdhX3JlYV9jb3B5LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=d728f6bf853aa0dc",
@@ -18,10 +23,5 @@
         "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjUvMDkvMzAvNjM0eGRja2hvd18yMDI1MDkzMF92YWdhX3JlYV9jb3B5LmpwZyJdLFsicCIsInRodW1iIiwiNjQweDY0MCMiXV0?sha=adbffea594ce0bb0",
         "titulo": "ABERTURA DE VAGA | Eng. Civil",
         "descricao": ""
-    },
-    {
-        "imagem": "https://www.itecons.uc.pt/storage/W1siZiIsIjIwMjYvMDEvMjcvZDJ4cjNkYWV4X0RpYWdub3N0aWNvX3RpX2NpYmVyc2VndXJhbmNhXzEuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIyJdXQ?sha=b79bba8b3775eb95",
-        "titulo": "Diagnóstico de TI e Cibersegurança",
-        "descricao": "Serviços Itecons"
     }
 ]
